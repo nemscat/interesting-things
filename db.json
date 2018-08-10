@@ -23,5 +23,9 @@
 		"id": 5,
 		"title": "What a moment with Angular",
 		"description": "This is the description of the Angular"
+	},
+		"id": 6,
+		"title": "Very cool moves with Web API 2",
+		"description": "This is the description of the Web API 2"
 	}]
 }
