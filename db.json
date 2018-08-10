@@ -31,17 +31,22 @@
 	}],
 	"real-stories": [{
 		"id": 100,
-		"movie-title": "Power",
+		"movietitle": "Power",
 		"information": "This is a movie series that showcases the influence of money, drugs and power"
 	},
 	{
 		"id": 101,
-		"movie-title": "Marvel Flash",
+		"movietitle": "Marvel Flash",
 		"information": "This is a movie series about a normal guy who became the flash and is trying to deal with vilians and true love"
 	},
 	{
 		"id": 102,
-		"movie-title": "Lost",
+		"movietitle": "Lost",
 		"information": "This is a movie series about people who got lost in a plane crash and trying to figure their way out of the forrest"
+	},
+	{
+		"id": 103,
+		"movietitle": "How to get away with Murder",
+		"information": "This is a movie series about an atorney and her students and a set of murders commited to cover an original murder case"
 	}]
 }
