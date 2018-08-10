@@ -1,16 +1,16 @@
 {
-  "posts": [
+  "postgre": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Wonder of API"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Greetings from LINUX"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "An adventure with LINQ"
     }
   ]
 }
