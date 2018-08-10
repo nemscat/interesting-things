@@ -29,7 +29,7 @@
 		"title": "Very cool moves with Web API 2",
 		"description": "This is the description of the Web API 2"
 	}],
-	"real stories": [{
+	"real-stories": [{
 		"id": 100,
 		"movie-title": "Power",
 		"information": "This is a movie series that showcases the influence of money, drugs and power"
