@@ -2,15 +2,18 @@
   "postgre": [
     {
       "id": 1,
-      "title": "Wonder of API"
+      "title": "Wonder of API",
+	  "description": "This is the description of the Web API"
     },
     {
       "id": 2,
-      "title": "Greetings from LINUX"
+      "title": "Greetings from LINUX",
+	  "description": "This is the description of LINUX"
     },
     {
       "id": 3,
-      "title": "An adventure with LINQ"
+      "title": "An adventure with LINQ",
+	  "description": "This is the description of the Web API"
     }
   ]
 }
