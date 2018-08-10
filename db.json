@@ -28,5 +28,20 @@
 		"id": 6,
 		"title": "Very cool moves with Web API 2",
 		"description": "This is the description of the Web API 2"
+	}],
+	"real stories": [{
+		"id": 100,
+		"movie-title": "Power",
+		"information": "This is a movie series that showcases the influence of money, drugs and power"
+	},
+	{
+		"id": 101,
+		"movie-title": "Marvel Flash",
+		"information": "This is a movie series about a normal guy who became the flash and is trying to deal with vilians and true love"
+	},
+	{
+		"id": 102,
+		"movie-title": "Lost",
+		"information": "This is a movie series about people who got lost in a plane crash and trying to figure their way out"
 	}]
 }
